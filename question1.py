@@ -1,3 +1,5 @@
+# Rock, paper, scissor game
+
 import random
 
 choices = ["rock", "paper", "scissors"]
